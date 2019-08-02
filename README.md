@@ -94,11 +94,11 @@ exact time the app was loaded. The `<p>` section includes the brief text on JSX.
 
 The `ExampleComponent` contains the sunglasses GIF. In the `src` folder, take a
 look at `ExampleComponent.js`. You'll see a file very similar to `App.js`,
-containing `<img>` and `<p>` elements. 
+containing `<img>` and `<p>` elements.
 
 By including `<ExampleComponent />` in `App.js`'s JSX, we are able to use the
 contents of the components. If you copy and paste `<ExampleComponent />` so it
-is listed two times in a row, _two_ GIFs will appear on the page. Try this now. 
+is listed two times in a row, _two_ GIFs will appear on the page. Try this now.
 
 What about the rest of `App.js`, though? Moving out from the middle, we see this
 JSX code is the _return_ value of a function, `render()`. This function is
@@ -109,7 +109,7 @@ class App extends Component {
   render() {
 
     return (
-      // JSX goes here!
+      // JSX goes here!!
     )
   }
 }
@@ -125,7 +125,7 @@ visible content, (i.e. by using both `App` and `ExampleComponent`.
 `ExampleComponent`, however, is used within `App`. `App` is at the top most
 level, the _parent component_ of our React app content.
 
-## Heads Up! 
+## Heads Up!
 `create-react-app` version 3.0.0 was released April 22, 2019. It
 makes a small change that defines `App` slightly differently. When you run
 `create-react-app` it may generate `class App extends Component` if you have
