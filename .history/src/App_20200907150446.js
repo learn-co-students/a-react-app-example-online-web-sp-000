@@ -18,7 +18,6 @@ class App extends Component {
           allows us to add in components, which are separate, self-contained chunks of JSX.
         </p>
         <ExampleComponent />
-        <TestComponent />
 
       </div>
     );
