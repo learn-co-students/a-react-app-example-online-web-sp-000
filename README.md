@@ -90,7 +90,7 @@ elements, `<header>`, `<p>` and `<ExampleComponent />`. In your browser, _these_
 are the elements being displayed! The `<header>` provides a timestamp of the
 exact time the app was loaded. The `<p>` section includes the brief text on JSX.
 
-The `ExampleComponent` contains the sunglasses GIF. In the `src` folder, take a
+The `ExampleComponent` contains the sunglasses GIF. In the `src` folder, take a h 
 look at `ExampleComponent.js`. You'll see a file very similar to `App.js`,
 containing `<img>` and `<p>` elements.
 
