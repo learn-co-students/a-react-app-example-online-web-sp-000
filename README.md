@@ -22,7 +22,7 @@ using the in-browser Learn IDE. If you are currently using the in-browser IDE,
 you will need to begin using your computer's local environment. If you are using
 a Mac, you can follow [these instructions][setup] for setting everything up
 locally.
-
+1
 ## Starting Up a React App
 
 This lesson has all the necessary parts of a fully working React app. To check
